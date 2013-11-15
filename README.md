@@ -16,6 +16,9 @@ linkscollection
   - https://github.com/shu223/iOS7-Sampler
   - https://github.com/monospacecollective/MSDynamicsDrawerViewController
   
+* Формы. Элементы. Вьюшки
+  - https://github.com/escoz/QuickDialog
+  
 * Style Guide
   - https://github.com/NYTimes/objective-c-style-guide
 
