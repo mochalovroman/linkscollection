@@ -82,3 +82,6 @@ linkscollection
   
 * Трансформации в UITableViewCell. Появление ячеек снизу с анимацией как в google+
   - http://www.raywenderlich.com/49311/advanced-table-view-animations-tutorial-drop-in-cards
+
+* Очень прикольные визуальные плюшки и интересное чтиво
+  - http://www.thinkandbuild.it/
